@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nevill001
+- 👋 Hi, I’m Svintsov Dmytro
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unrial Engine 5
 - 💞️ I’m looking to collaborate on game dev (C++ / UE5 / Blender)
